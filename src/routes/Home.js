@@ -34,7 +34,7 @@ function Home() {
                   genres={item.genres} 
                 />
               )}
-          </div>
+            </div>
         )}
         </div>
       </div>
